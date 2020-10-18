@@ -54,6 +54,8 @@ This metric was derived by averaging out the total fares sum with the number of 
 
 From the above data, it is notable that the urban city has the highest number of both rides and drivers. The highest average fares per ride and per driver belong to the rural city type. With these observations I have 3 recommendations:
 
-*1. 
-*2. 
-*3. 
+**1.** As the average fare per ride and driver is lowest for the urban city type. Funds should be allocated to obtaining more drivers in the urban vity types to further lower the average fare and make PyBer more competative.
+
+**2.** It may be beneficial to start a special on rides for the rural city type where the more rides a customer takes they gain points toward a free ride. This could help increase the total number of rides and thus drive down the average fare value. 
+
+**3.** 
