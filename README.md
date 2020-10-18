@@ -52,3 +52,8 @@ This metric was derived by averaging out the total fares sum with the number of 
 
 ## Summary
 
+From the above data, it is notable that the urban city has the highest number of both rides and drivers. The highest average fares per ride and per driver belong to the rural city type. With these observations I have 3 recommendations:
+
+*1. 
+*2. 
+*3. 
