@@ -6,7 +6,7 @@ Given data on the number of rides, number of drivers, and total fare amount for 
 
 ## Results
 
-![Total Fares by City Type]()
+![Total Fares by City Type](https://github.com/MattK1454/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 ## Summary
