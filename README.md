@@ -58,4 +58,4 @@ From the above data, it is notable that the urban city has the highest number of
 
 **2.** It may be beneficial to start a special on rides for the rural city type where the more rides a customer takes they gain points toward a free ride. This could help increase the total number of rides and thus drive down the average fare value. 
 
-**3.** 
+**3.** It may benefit the company to start holding specials to encourage more rides in winter months and drive up total fares for all three city types, especially the rural city types, thus driving down average fare costs. 
