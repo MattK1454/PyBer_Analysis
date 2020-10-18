@@ -14,7 +14,7 @@ Above is the graphic representation of the PyBer data filtered for the total far
 
 - Rural: 125
 - Suburban: 625
-- Urban: 1625
+- Urban: 1,625
 
 This data shows the urban city type has the highest total ride count, with the suburban city type having the second highest total ride count.
 
@@ -22,31 +22,31 @@ This data shows the urban city type has the highest total ride count, with the s
 
 - Rural: 78
 - Suburban: 490
-- Urban: 2405
+- Urban: 2,405
 
 This metric reveals that the urban city type possesses the highest total driver count out of all the city type with the suburban city type having the second highest total count.
 
 ### Total Fares
 
-- Rural: 4327.93
-- Suburban: 19356.33
-- Urban: 39854.38
+- Rural: $4,327.93
+- Suburban: $19,356.33
+- Urban: $39,854.38
 
 Here, the metric shows the highest total fare sum belongs to the urban city type with the suburban city type coming in second.
 
 ### Average Fare per Ride
 
-- Rural: 34.62
-- Suburban: 30.97
-- Urban: 24.52
+- Rural: $34.62
+- Suburban: $30.97
+- Urban: $24.52
 
 By averaging out the total sum of fares with the number of rides, it can be noted that the highest average belongs to the rural city type with the suburban city type having the second highest average.
 
 ### Average Fare per Driver
 
-- Rural: 55.48
-- Suburban: 39.50
-- Urban: 16.57
+- Rural: $55.48
+- Suburban: $39.50
+- Urban: $16.57
 
 This metric was derived by averaging out the total fares sum with the number of drivers per city type. The result is the highest average fare per driver value belongs to the rural city type. The second highest average belongs to the suburban city type.
 
